@@ -67,13 +67,13 @@ struct ToggleView : View {
             
          
             HStack {
-                Text("ON")
+                Text("FIN")
                     .bold()
                     .foregroundColor(.green)
                 
                 Spacer()
                 
-                Text("OFF")
+                Text("EN")
                     .bold()
                     .foregroundColor(.red)
                 
